@@ -1,0 +1,52 @@
+p {color: DarkOrange;
+    background-color: Black ;
+    font-family: helvetica;
+    font-size: 20px;
+    list-style-type: "\1F44D"
+    }
+ol {color: DarkOrange;
+        background-color: Black ;
+        font-family: helvetica;
+        font-size: 20px;
+        list-style-type: "\1F44D"
+        }
+img.shakhtar {
+    border: 6px double DarkOrange;   
+    border-radius: 10px;
+    background: #ffa;
+    margin: 0;
+    position: relative;
+    display: block;
+    margin-left: auto;
+    margin-right: auto            
+   
+}
+
+a:link {
+        color: red;
+    }
+a:visited {
+        color: blue;
+    }
+a:hover {
+        color: green;
+    }
+a:active {
+        color: black;
+    }
+
+.button {
+        font: bold 11px Arial;
+        text-decoration: none;
+        background-color: #EEEEEE;
+        color: #333333;
+        padding: 2px 6px 2px 6px;
+        border-top: 1px solid #CCCCCC;
+        border-right: 1px solid #333333;
+        border-bottom: 1px solid #333333;
+        border-left: 1px solid #CCCCCC;
+}
+
+.page{
+        background-color: DarkOrange 
+}
